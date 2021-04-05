@@ -1,0 +1,127 @@
+#brand-logo {
+  font-size: 34px;
+}
+
+#app-navbar {
+  background: linear-gradient(120deg, #e7e7da, #e7e7da);
+}
+
+body {
+  padding-top: 50px;
+}
+
+.mainapple {
+  padding-top: 100px;
+  text-align: center;
+  align-items: center;
+}
+
+.techfec {
+  font-size: 8vw;
+  font-weight: bold;
+  color: #44a6ed;
+}
+
+.techstart {
+  font-family: cursive;
+  font-size: 3vw;
+  color: #e7e7da;
+}
+
+.techfec {
+  font-family: cursive;
+  color: #e7e7da;
+}
+
+.techhe {
+  text-align: center;
+  border: solid 3px black;
+  margin: 50px;
+}
+
+.brokenlink {
+  align-items: center;
+}
+
+.pcholder {
+  margin: 3vw;
+}
+
+body {
+  /*background-image: url('../../assets/img/pink%20dust.png');*/
+}
+
+h1 {
+  color: #e7e7da;
+}
+
+#brand-logo {
+  color: black;
+}
+
+a {
+  color: black;
+}
+
+#doonl {
+  color: black;
+}
+
+#guide {
+  color: black;
+}
+
+#contact {
+  color: black;
+}
+
+.navbar-toggler {
+  background-color: black;
+}
+
+#doonl {
+  text-align: center;
+}
+
+#guide {
+  text-align: center;
+}
+
+#contact {
+  text-align: center;
+}
+
+.pcgrp {
+  margin: 2vw;
+}
+
+h4 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-family: serif;
+}
+
+button {
+  align-items: center;
+}
+
+#centrer {
+  margin: 0;
+  top: 50%;
+  left: 50%;
+}
+
+#mainhed {
+  text-align: center;
+  font-size: 5vw;
+  font-family: cursive;
+}
+
+#mainhed {
+  margin-bottom: 3.4vw;
+  font-weight: bold;
+}
+
